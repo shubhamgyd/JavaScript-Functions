@@ -1,0 +1,38 @@
+1. Introduction to functions.
+2. In javaScript, Functions are first-case citizens.
+3. Advantages of using functions.
+4. When should you consider using Functions?
+5. Introduction to the function declaration.
+6. The basic syntax for function declaration.
+7. Calling a function.
+8. Parameters, Arguments & Return statement.
+
+
+1. Introduction to functions.
+-> The concept of functions came into existence to support the way we organize and
+   structure code. A function is a block of code that performs a specific task and
+   can be reused throughout the program.
+   
+   This allows us to write more efficient and modular code, as well as the ability
+   to easily update or change the behavior of the program by modifying the functions.
+   Additionally, by using functions we can make the code more readable and easier
+   to understand.
+
+   Some functions will be in-built in javascript which can be directly used and Some
+   must be user-defined functions. We will be looking into them in further lectures.
+
+3. Advantages of using functions.
+->
+    (i) Functions allows us to define a block of code once and reuse it mutlitple times
+        throughout your program. So we need not to repeat the same lines of code every
+        time.
+    (ii)While solving a problem we split them into subproblems so we could solve smaller
+        problems to achieve the final result. Here functions can be used to break down
+        complex problems into smaller, more manageable tasks.
+    (iii)Functions can make code more readable by giving it a clear structure and making
+        it easy to understand what the code is doing.
+    (iv)Functions are tested separately before actual implementation. Because functions
+        can be tested and debugged independently of the rest of the code, it can make it
+        easier to identify and fix bugs.
+    (v) Functions are the optimal way to manage the space which leads to higher performance
+        of the program.
